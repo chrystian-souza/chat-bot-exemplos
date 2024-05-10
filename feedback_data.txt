@@ -1,0 +1,24 @@
+eu gostaria de comprar passagens aéreas | Para onde deseja ir
+Para onde deseja ir | Temos voos as 14hs e depois somente as 23hs
+Desculpe, não entendi. Pode repetir, por favor? | Temos voos as 14hs e depois somente as 23hs
+Olá tudo bem | Ola tudo bem e você!
+eu gostaria de comprar passagens aéreas | Para onde você deseja viajar?
+eu gostaria de comprar passagens aéreas | Para onde deseja Viajar?
+eu gostaria de comprar passagens aéreas | Para onde deseja viajar?
+None | Boa noite
+boa noite | boa noite
+Quero fazer um pedido | 
+Olá boa noite | boa noite
+Olá boa noite | boa noite
+Quero fazer um pedido | tudo bem, oque desejas?
+quero uma pizza | certo, quais sabores?
+quais sabores você tem | tenho de calabresa, frango, quatro queijos, marguerita, frango com catupiry e napolitana, qual sabor desejas?
+quero metade calabresa | anotado, queres alguma bebida?
+Sim quero uma coca 600 ml | certo, seu pedido foi uma pizza de calabresa e uma coca 600 ml, confirma?
+isso confirmo sim | ok, seu pedido vai 30 minutos para o preparo, o tatal ficou: 45,90, qual a forma de pagamento?
+vou pagar no pic | tudo bem, te agradeço pela preferencia, boa noite!
+boa noite | olá, boa noite
+quero de calabresa | anotado, queres alguma bebida?
+quero uma coca de 600 ml | certo, seu pedido foi uma pizza de calabreza e uma coca 600ml, confirma?
+confirmo sim | ok, seu pedido vai durar cerca de  30 minutos para o preparo, o tatal ficou: 45,90, qual a forma de pagamento?
+vai ser no pic | tudo bem, te agradeço pela preferencia, boa noite!
